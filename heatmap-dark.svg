@@ -95,8 +95,8 @@
   <path d="M156 118 C156 142 100 150 100 192 L100 440 Q100 476 136 476 L376 476 Q412 476 412 440 L412 192 C412 150 356 142 356 118 Z" fill="none" stroke="#6f8fa6" stroke-width="6" stroke-linejoin="round"/>
 </svg>
 
-<text x="96" y="53" font-size="14" font-weight="600" fill="#e6edf3">70 swears in the last year</text>
-<text x="786" y="53" font-size="12" text-anchor="end" fill="#8d96a0">166 sessions · 240 transcripts</text>
+<text x="96" y="53" font-size="14" font-weight="600" fill="#e6edf3">73 swears in the last year</text>
+<text x="786" y="53" font-size="12" text-anchor="end" fill="#8d96a0">195 sessions · 273 transcripts</text>
 <g font-size="10" fill="#8d96a0">
 <text x="103" y="103">Dec</text>
 <text x="159" y="103">Jan</text>
@@ -446,14 +446,14 @@
 <rect x="691" y="194" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Sat, Oct 3, 2026 · 0 messages sent</title></rect>
 <rect x="705" y="110" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Sun, Oct 4, 2026 · 0 messages sent</title></rect>
 <rect x="705" y="124" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Mon, Oct 5, 2026 · 0 messages sent</title></rect>
-<rect x="705" y="138" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Tue, Oct 6, 2026 · 32 messages sent</title></rect>
-<rect x="705" y="152" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Wed, Oct 7, 2026 · 5 messages sent</title></rect>
-<rect x="705" y="166" width="11" height="11" rx="2" fill="#d6333a"><title>3 swears on Thu, Oct 8, 2026 · 79 messages sent</title></rect>
-<rect x="705" y="180" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Fri, Oct 9, 2026 · 31 messages sent</title></rect>
-<rect x="705" y="194" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Sat, Oct 10, 2026 · 1 message sent</title></rect>
+<rect x="705" y="138" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Tue, Oct 6, 2026 · 29 messages sent</title></rect>
+<rect x="705" y="152" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Wed, Oct 7, 2026 · 0 messages sent</title></rect>
+<rect x="705" y="166" width="11" height="11" rx="2" fill="#d6333a"><title>3 swears on Thu, Oct 8, 2026 · 41 messages sent</title></rect>
+<rect x="705" y="180" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Fri, Oct 9, 2026 · 17 messages sent</title></rect>
+<rect x="705" y="194" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Sat, Oct 10, 2026 · 0 messages sent</title></rect>
 <rect x="719" y="110" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Sun, Oct 11, 2026 · 0 messages sent</title></rect>
 <rect x="719" y="124" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Mon, Oct 12, 2026 · 0 messages sent</title></rect>
-<rect x="719" y="138" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Tue, Oct 13, 2026 · 46 messages sent</title></rect>
+<rect x="719" y="138" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Tue, Oct 13, 2026 · 13 messages sent</title></rect>
 <rect x="719" y="152" width="11" height="11" rx="2" fill="#4a1416"><title>1 swear on Wed, Oct 14, 2026 · 98 messages sent</title></rect>
 <rect x="719" y="166" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Thu, Oct 15, 2026 · 80 messages sent</title></rect>
 <rect x="719" y="180" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Fri, Oct 16, 2026 · 23 messages sent</title></rect>
@@ -482,7 +482,9 @@
 <rect x="775" y="110" width="11" height="11" rx="2" fill="#4a1416"><title>1 swear on Sun, Nov 8, 2026 · 121 messages sent</title></rect>
 <rect x="775" y="124" width="11" height="11" rx="2" fill="#8f1d22"><title>2 swears on Mon, Nov 9, 2026 · 161 messages sent</title></rect>
 <rect x="775" y="138" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Tue, Nov 10, 2026 · 181 messages sent</title></rect>
-<rect x="775" y="152" width="11" height="11" rx="2" fill="#ff6b6b"><title>16 swears on Wed, Nov 11, 2026 · 98 messages sent</title></rect>
+<rect x="775" y="152" width="11" height="11" rx="2" fill="#ff6b6b"><title>16 swears on Wed, Nov 11, 2026 · 135 messages sent</title></rect>
+<rect x="775" y="166" width="11" height="11" rx="2" fill="#161b22"><title>No swears on Thu, Nov 12, 2026 · 50 messages sent</title></rect>
+<rect x="775" y="180" width="11" height="11" rx="2" fill="#d6333a"><title>3 swears on Fri, Nov 13, 2026 · 117 messages sent</title></rect>
 </g>
 <g font-size="11" fill="#8d96a0">
 <text x="683" y="224" text-anchor="end">Less</text>
@@ -496,10 +498,10 @@
 <rect x="743" y="215" width="11" height="11" rx="2" fill="#ff6b6b"/>
 </g>
 <rect x="16" y="238" width="144.4" height="68" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="28" y="266" font-size="20" font-weight="600" fill="#e6edf3">70</text>
+<text x="28" y="266" font-size="20" font-weight="600" fill="#e6edf3">73</text>
 <text font-size="11" fill="#8d96a0"><tspan x="28" y="284">swears</tspan></text>
 <rect x="172.4" y="238" width="144.4" height="68" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="184.4" y="266" font-size="20" font-weight="600" fill="#e6edf3">18/35</text>
+<text x="184.4" y="266" font-size="20" font-weight="600" fill="#e6edf3">19/35</text>
 <text font-size="11" fill="#8d96a0"><tspan x="184.4" y="284">active days with</tspan><tspan x="184.4" y="297">swearing</tspan></text>
 <rect x="328.8" y="238" width="144.4" height="68" rx="6" fill="#161b22" stroke="#30363d"/>
 <text x="340.8" y="266" font-size="20" font-weight="600" fill="#e6edf3">16</text>
@@ -510,5 +512,5 @@
 <rect x="641.6" y="238" width="144.4" height="68" rx="6" fill="#161b22" stroke="#30363d"/>
 <text x="653.6" y="266" font-size="20" font-weight="600" fill="#e6edf3">5</text>
 <text font-size="11" fill="#8d96a0"><tspan x="653.6" y="284">longest swearing streak</tspan><tspan x="653.6" y="297">(days)</tspan></text>
-<text x="16" y="328" font-size="11" fill="#8d96a0">Rendered with swear-jar (https://github.com/charlesthomas/swear-jar).</text>
+<text x="16" y="328" font-size="11" fill="#8d96a0">Rendered with https://github.com/charlesthomas/swear-jar</text>
 </svg>
